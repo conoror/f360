@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Conor O'Rourke",
+	"description":	{
+		"":	"Sketch for constraint status"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
