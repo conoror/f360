@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Conor O'Rourke",
+	"description":	{
+		"":	"Dump out all parameters"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
